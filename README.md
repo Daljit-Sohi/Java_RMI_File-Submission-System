@@ -2,8 +2,6 @@
 Distributed Assignment#2 - Coded with Java - An RMI File Submission System
 
 Code By: Daljit Sohi
-ID: 100520358
-
 
 Files and Folders Description:
 
